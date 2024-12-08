@@ -1,4 +1,4 @@
 # CREH-rules
 
-- [Version Espanol]
+- [Version Espanol](es-Mx/01-Introduccion.md)
 - [English Version](en-Us/01-Introduction.md)
