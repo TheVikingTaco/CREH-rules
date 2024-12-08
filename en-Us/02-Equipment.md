@@ -1,4 +1,4 @@
-# equipment
+# Equipment
 1. All participants are responsible for bringing their own equipment to participate in the tournament. A participant will not be allowed to participate if he or she is missing a piece of the necessary equipment or if it is in poor condition.
 
 2. The equipment will be checked by the staff designated for the task, and a second check will be made by the referee of each arena at the beginning of the pool. The referee may ask the participant to change a piece of equipment that he or she deems inappropriate for the competition. If the participant cannot change the piece of equipment within 5 minutes, he or she will be disqualified from the tournament in question.
