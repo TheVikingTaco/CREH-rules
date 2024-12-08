@@ -1,4 +1,4 @@
-#Introducción 
+# Introducción 
 
 Los objetivos de este reglamento son dos, propiciar la buena técnica y propiciar la buena defensa. No solo se busca que los peleadores puedan conectar a su oponente sin ser golpeados en el proceso, sino que también, se busca que los peleadores puedan ejecutar los cortes y técnicas de manera adecuada, con forma y control apropiados. 
 
