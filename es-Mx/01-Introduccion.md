@@ -5,7 +5,7 @@ Los objetivos de este reglamento son dos, propiciar la buena técnica y propicia
 Este torneo no tiene la intención de simular una “pelea real”, si no, ser una herramienta más para con la cual medir y poner a prueba nuestro conocimiento táctico y técnico.
 
 ## Equipo Reglamentado
-- [Protecciones y Armas](es-Mx/02-Equipo.md)
+- [Protecciones y Armas](02-Equipo.md)
 
 ## Organización
 - [Organización](www.google.com)
