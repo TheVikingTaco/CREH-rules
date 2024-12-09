@@ -10,7 +10,7 @@ This tournament is not intended to simulate a “real fight”, but rather, to b
 
 ## Organization
 
-- [Organization]
+- [Organization](03-Organization.md)
 - [Fencing Etiquette]
 - [Disciplinary rules]
 

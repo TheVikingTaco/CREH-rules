@@ -8,7 +8,7 @@ Este torneo no tiene la intención de simular una “pelea real”, si no, ser u
 - [Protecciones y Armas](02-Equipo.md)
 
 ## Organización
-- [Organización](www.google.com)
+- [Organización](03-Organizacion.md)
 - [Etiqueta](www.google.com)
 - [Reglas Disciplinarias](www.google.com)
 
