@@ -30,9 +30,9 @@
 
 2. In a pool, a round ends when:
 
-1. One of the fighters reaches 5 points.
+	1. One of the fighters reaches 5 points.
 
-2. The 1 minute and a half timer is up. In case it ends in the middle of an exchange, the last exchange will be called and the round ends until this exchange ends.
+	2. The 1 minute and a half timer is up. In case it ends in the middle of an exchange, the last exchange will be called and the round ends until this exchange ends.
 
 3. If the fight ends and the point limit has not been reached, the fighter with the highest score wins and is recorded as such in the system.
 
@@ -48,34 +48,34 @@
 
 ## Direct Elimination
 
-The direct elimination rounds (256,128,64,32,16,8,4) are always called in order of the plan, starting from the top to the bottom.
+1. The direct elimination rounds (256,128,64,32,16,8,4) are always called in order of the plan, starting from the top to the bottom.
 
-The organizers of the competition are in charge of presenting the order of the eliminations.
+2. The organizers of the competition are in charge of presenting the order of the eliminations.
 
-The eliminations are 7 points with 3 minutes of duration per match.
+3. The eliminations are 7 points with 3 minutes of duration per match.
 
-The round ends when:
+4. The round ends when:
 
-The limit of 7 points is reached
+	1. The limit of 7 points is reached
 
-The 3 minutes of duration have passed, the last exchange will be called and the round ends until this exchange ends.
+	2. The 3 minutes of duration have passed, the last exchange will be called and the round ends until this exchange ends.
 
-The fighter with the highest score is the winner.
+5. The fighter with the highest score is the winner.
 
-If at the end of the time, the participants are tied, a sudden death exchange will be called. The first to land a clean punch wins the round.
+6. If at the end of the time, the participants are tied, a sudden death exchange will be called. The first to land a clean punch wins the round.
 
-If it happens that the fighters exceed the doubles limit during the round, the winner of the round will start with a negative point in the next round.
+7. If it happens that the fighters exceed the doubles limit during the round, the winner of the round will start with a negative point in the next round.
 
-If a fighter abandons his round either before or during it, his opponent is declared the winner of the round.
+8. If a fighter abandons his round either before or during it, his opponent is declared the winner of the round.
 
 ## Tournament Staff
 
-Medical Staff, who will be in charge of providing first aid to the event participants in case they require it.
+1. Medical Staff, who will be in charge of providing first aid to the event participants in case they require it.
 
-Event Director, is in charge of making sure that the event progresses smoothly. He must be available for questions, complaints, compliments and suggestions before and after the event.
+2. Event Director, is in charge of making sure that the event progresses smoothly. He must be available for questions, complaints, compliments and suggestions before and after the event.
 
-Head Referee, is in charge of the judges and that they are doing their job and can receive questions from the participants about the judging.
+3. Head Referee, is in charge of the judges and that they are doing their job and can receive questions from the participants about the judging.
 
-Inspection Manager, is the person in charge of the equipment inspection team, who is in charge of checking each participant's equipment before the competition.
+4. Inspection Manager, is the person in charge of the equipment inspection team, who is in charge of checking each participant's equipment before the competition.
 
-Technical Team, is the team in charge of ensuring the proper functioning of the computer equipment used during the competition.
+5. Technical Team, is the team in charge of ensuring the proper functioning of the computer equipment used during the competition.

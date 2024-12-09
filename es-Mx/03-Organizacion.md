@@ -48,34 +48,34 @@
 
 ## Eliminación Directa 
 
-Las rondas de eliminación directa (256,128,64,32,16,8,4) siempre son llamadas en orden al plan, empezando desde arriba hacia abajo. 
+1. Las rondas de eliminación directa (256,128,64,32,16,8,4,3,2,1) siempre son llamadas en orden al plan, empezando desde arriba hacia abajo. 
 
-Los organizadores de la competencia son los encargados de presentar el orden de las eliminatorias. 
+2. Los organizadores de la competencia son los encargados de presentar el orden de las eliminatorias. 
 
-Las eliminatorias son a 7 puntos con 3 minutos de duración por encuentro. 
+3. Las eliminatorias son a 7 puntos con 3 minutos de duración por encuentro. 
 
-El asalto termina cuando: 
+4. El asalto termina cuando: 
 
-Se alcanza el límite de 7 puntos 
+	1. Se alcanza el límite de 7 puntos 
 
-Han pasado los 3 minutos de duración se llamará el último intercambio y el asalto termina hasta que este intercambio termine. 
+	2. Han pasado los 3 minutos de duración se llamará el último intercambio y el asalto termina hasta que este intercambio termine. 
 
-El peleador con mayor puntaje es el ganador 
+5. El peleador con mayor puntaje es el ganador 
 
-Si al final del tiempo, los participantes quedan empate, se llamará a intercambia por muerte súbita. El primer en conectar un golpe limpio gana el asalto. 
+6. Si al final del tiempo, los participantes quedan empate, se llamará a intercambia por muerte súbita. El primer en conectar un golpe limpio gana el asalto. 
 
-Si se llega a dar que los peleadores sobre pasan el límite de dobles durante el asalto, el ganador del asalto empezara con un punto negativo su siguiente asalto. 
+7. Si se llega a dar que los peleadores sobre pasan el límite de dobles durante el asalto, el ganador del asalto empezara con un punto negativo su siguiente asalto. 
 
-Si un peleador abandona su asalto ya sea antes de o durante este, su oponente se declara el ganador del asalto. 
+8. Si un peleador abandona su asalto ya sea antes de o durante este, su oponente se declara el ganador del asalto. 
 
 ## Staff del torneo 
 
-Staff Medico, son quienes se van a encargar de proporcionar primeros auxilios a los participantes del evento en caso de que lo requieran. 
+1. Staff Medico, son quienes se van a encargar de proporcionar primeros auxilios a los participantes del evento en caso de que lo requieran. 
 
-Director de evento, es el encargado de que el evento avance de manera fluida. Debe estar disponible para preguntas, quejas, cumplidos y sugerencias durante antes y después del evento. 
+2. Director de evento, es el encargado de que el evento avance de manera fluida. Debe estar disponible para preguntas, quejas, cumplidos y sugerencias durante antes y después del evento. 
 
-Jefe de Réferis, es el encargado de los jueces y de que estos estén cumpliendo con su trabajo y pueden recibir preguntas de los participantes acerca del jueceo. 
+3. Jefe de Réferis, es el encargado de los jueces y de que estos estén cumpliendo con su trabajo y pueden recibir preguntas de los participantes acerca del jueceo. 
 
-Jefe de Inspección, es el encargado del equipo de inspección de equipo, los encargados de revisar el equipo de cada participante antes de la competencia. 
+4. Jefe de Inspección, es el encargado del equipo de inspección de equipo, los encargados de revisar el equipo de cada participante antes de la competencia. 
 
-Equipo Técnico, el equipo encargado del buen funcionamiento del equipo de cómputo que se ocupe durante la competencia. 
+5. Equipo Técnico, el equipo encargado del buen funcionamiento del equipo de cómputo que se ocupe durante la competencia. 
